@@ -1,0 +1,1 @@
+Teleports players to their last Heal locations.
