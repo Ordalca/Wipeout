@@ -83,7 +83,7 @@ minecraft {
 sourceSets.main.resources { srcDir 'src/generated/resources' }
 
 group = 'me.ordalca.wipeout'
-version = '0.0.2'
+version = '1.0.0'
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
